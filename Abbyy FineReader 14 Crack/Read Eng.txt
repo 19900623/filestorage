@@ -1,0 +1,7 @@
+1. Run the program first and select a trial period.
+2. Start the Stop_ABBYY_Server.cmd from the Crack folder
+3. Folder contents:
+Crack dll copy in path:
+C: \ Program Files (x86) \ ABBYY FineReader 14
+4. When you start the program after activation, you will be asked if you want the corporation to submit your settings.
+Optionally select No and confirm with Ok.

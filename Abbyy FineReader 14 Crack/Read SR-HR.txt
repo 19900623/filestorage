@@ -1,0 +1,7 @@
+﻿1. Prvo pokrenite program i odaberite probni period.
+2. Iz foldera Crack pokrenite Stop_ABBYY_Server.cmd
+3. Sadržaj foldera:
+Crack dll kopirajte na putanju:
+C:\Program Files (x86)\ABBYY FineReader 14
+4. Kada nakon aktivacije pokrenete program, pojaviće se pitanje da li želite korporaciji da pošaljete vaše postavke.
+Obavezno odaberite Ne i potvrdite sa Ok.
